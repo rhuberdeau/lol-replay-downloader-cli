@@ -15,7 +15,7 @@
         "symfony/yaml": "~2.5.7",
         "symfony/console": "~2.5.5",
         "elogank/lol-replay": "1.0.*@dev",
-        "elogank/lol-replay-downloader": "1.1.*@dev"
+        "elogank/lol-replay-downloader": "1.2.*@dev"
     },
     "scripts": {
         "post-install-cmd": [
